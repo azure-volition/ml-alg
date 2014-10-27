@@ -1,0 +1,3 @@
+[submodule "ml-pdf"]
+	path = ml-pdf
+	url = https://github.com/azure-volition/ml-pdf.git
